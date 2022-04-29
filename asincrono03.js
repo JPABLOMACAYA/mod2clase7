@@ -19,4 +19,4 @@ function agregarQuitar() {
     div1.classList.toggle("square");
 }
 
-setInterval(agregarQuitar, 1000)
+setInterval(agregarQuitar, 1000);
